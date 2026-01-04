@@ -4,13 +4,27 @@ font-family: Verdana, Helvetica, Arial, sans-serif;
 line-height: 1.6em;
 }
 
-.guarantee {
-border-color: black;
+#guarantee {
+border-color: white;
 border-width: 1px;
-border-style: solid;
+border-style: dashed;
+border-top-left-radius: 0px;
+border-top-right-radius: 0px;
+border-bottom-left-radius: 0px;
+border-bottom-right-radius: 0;
 background-color: #a7cece;
 padding: 25px;
+padding-left: 80px;
 margin: 30px;
+margin-right: 250px;
+font-family: serif;
+font-style: italic;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: #444;
+line-height: 1.9em;
+background-image: url(images/background.gif);
+background-repeat: no-repeat;
+background-position: top left;
 }
 
 h1, h2 {

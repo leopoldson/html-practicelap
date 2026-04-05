@@ -1,7 +1,5 @@
 body {
-  font-size:           small;
-  font-family:         Verdana, Helvetica, Arial, sans-serif;
-  line-height:         1.6em;
+  font:           small/1.6em Verdana, Helvetica, Arial, sans-serif;
 }
 
 h1, h2 {
@@ -38,7 +36,7 @@ h2 {
   border: thin solid #007e7e;
   width: 200px;
   padding: 0px 20px 20px 20px;
-  margin: 0px 0px 20px 0px;
+  margin: 0px 0px 0px 20px;
   text-align: center;
   line-height: 1;
   background: url(images/cocktail.gif) repeat-x;

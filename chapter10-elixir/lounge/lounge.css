@@ -38,11 +38,10 @@ h2 {
   border: thin solid #007e7e;
   width: 200px;
   padding: 0px 20px 20px 20px;
-  margin-left: 20px;
+  margin: 0px 0px 20px 0px;
   text-align: center;
   line-height: 1;
-  background-image: url(images/cocktail.gif);
-  background-repeat: repeat-x;
+  background: url(images/cocktail.gif) repeat-x;
 }
 
 #elixirs h2 {
